@@ -1,1 +1,3 @@
-# Flowcytometry
+### Flowcytometry
+
+This project contains finalized R scripts related to the processing, quality control and data analysis steps of flowcytometry data. At the top of each script at least the primary author and objective of the script should be stated. If applicable mentioned the study for which the R script was used, preferably with a link to the publication. The body of your script should be clear, consice and important steps should be highlighted using the # sign. Lastly, when using a specific R script that is tailored for your research questions, you can cite the source article using a statement like "as is performed by Wilbrink et al.".
